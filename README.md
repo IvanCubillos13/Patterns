@@ -14,3 +14,9 @@ Y revisamos que se cumpla la estructura esperada
 Hacemos los cambios, compilamos y ejecutamos 
 ![alt text](image/image.png)
 ![alt text](image/image-1.png)
+
+
+## COMPILAR Y EJECUTAR
+
+Hacemos los cambios en el POM y ejecutamos
+![alt text](image.png)
