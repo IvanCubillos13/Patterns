@@ -11,6 +11,6 @@ Y revisamos que se cumpla la estructura esperada
 
 ## AJUSTAR ALGUNAS CONFIGURACIONES EN EL PROYECTO
 
-hacemos los cambios, compilamos y ejecutamos 
+Hacemos los cambios, compilamos y ejecutamos 
 ![alt text](image/image.png)
 ![alt text](image/image-1.png)
