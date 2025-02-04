@@ -18,5 +18,5 @@ Hacemos los cambios, compilamos y ejecutamos
 
 ## COMPILAR Y EJECUTAR
 
-Hacemos los cambios en el POM y ejecutamos
+Hacemos los cambios en el POM y ejecutamos.
 ![alt text](image.png)
